@@ -118,12 +118,11 @@ Status    : Open to opportunities
 
 ---
 
-## ◈ DSA Combat Log
+## ◆ DSA Combat Log
 
 <div align="center">
 
-<img width="1061" height="235" alt="image" src="https://github.com/user-attachments/assets/4bf3a477-915a-4baa-9e79-0cfb3ccda6dc" />
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ne_ey?theme=dark&ext=heatmap)](https://leetcode.com/u/Ne_ey)
 
 `200+ Problems` &nbsp;·&nbsp; `Top 15%` &nbsp;·&nbsp; `DP · Graphs · Trees · Greedy`
 
