@@ -18,26 +18,34 @@
 
 ## About Me
 
-AI/ML Engineer in the making — currently interning at **Ethara AI** working on LLM post-training, supervised fine-tuning, and preference optimization. I build things that actually work: RAG pipelines, code review tools, and high-performance C++ APIs. Pursuing B.Tech in CS (AI/ML) at UCER Prayagraj, graduating 2026.
-
-**Open to:** AI/ML Engineer · SDE roles · Research Engineering
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=false&vCenter=true&width=700&lines=AI+Intern+%40+Ethara+AI+%E2%80%94+LLM+Fine-tuning+%26+RAG;B.Tech+CS+(AI%2FML)+%7C+UCER+Prayagraj+%7C+2026;Open+to%3A+AI%2FML+Engineer+%C2%B7+SDE+%C2%B7+Research+Engineering)](https://git.io/typing-svg)
 
 ---
 
 ## Experience
 
-**Ethara AI** &nbsp;·&nbsp; AI Intern (LLM) &nbsp;·&nbsp; Feb 2026 – Present &nbsp;·&nbsp; Remote
-`LLM Fine-tuning · RLHF/DPO · Alignment Datasets · Evaluation Frameworks`
+<div align="center">
+
+| Company | Role | Period | Links |
+|:---|:---|:---|:---:|
+| **Ethara AI** | AI Intern — LLM | Feb 2026 – Present | [![LinkedIn](https://img.shields.io/badge/Know_More-6d28d9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-p-132869229/) |
+
+
+</div>
 
 ---
 
 ## Projects
 
+<div align="center">
+
 | Project | Stack | Links |
 |:---|:---|:---:|
-| **Personal AI Knowledge Assistant** | Python · LangChain · FAISS · Gemini · Streamlit | [▶ Demo](https://nehapandey-ai-knowledge-assistant.streamlit.app/) &nbsp; [📂 Repo](https://github.com/ne-ey) |
-| **AI-Powered Code Review Assistant** | Python · Flask · GitHub API · OpenAI | [📂 Repo](https://github.com/ne-ey) |
-| **C++ Refactor API** | C++ · REST API · nlohmann-json | [📂 Repo](https://github.com/ne-ey/CSES) |
+| **Personal AI Knowledge Assistant** | Python · LangChain · FAISS · Gemini | [![Demo](https://img.shields.io/badge/▶_Live_Demo-22c55e?style=flat-square)](https://nehapandey-ai-knowledge-assistant.streamlit.app/) [![Repo](https://img.shields.io/badge/📂_Repo-6d28d9?style=flat-square)](https://github.com/ne-ey) |
+| **AI-Powered Code Review Assistant** | Python · Flask · GitHub API · OpenAI | [![Repo](https://img.shields.io/badge/📂_Repo-6d28d9?style=flat-square)](https://github.com/ne-ey) |
+| **C++ Refactor API** | C++ · REST API · nlohmann-json | [![Repo](https://img.shields.io/badge/📂_Repo-6d28d9?style=flat-square)](https://github.com/ne-ey/CSES) |
+
+</div>
 
 ---
 
