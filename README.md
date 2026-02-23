@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-p-132869229/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:np081616@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ne_ey)
+
 
 <br/>
 
@@ -22,32 +22,6 @@
 
 ---
 
-## Experience
-
-<div align="center">
-
-| Company | Role | Period | Links |
-|:---|:---|:---|:---:|
-| **Ethara AI** | AI Intern — LLM | Feb 2026 – Present | [![LinkedIn](https://img.shields.io/badge/Know_More-6d28d9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-p-132869229/) |
-
-
-</div>
-
----
-
-## Projects
-
-<div align="center">
-
-| Project | Stack | Links |
-|:---|:---|:---:|
-| **Personal AI Knowledge Assistant** | Python · LangChain · FAISS · Gemini | [![Demo](https://img.shields.io/badge/▶_Live_Demo-22c55e?style=flat-square)](https://nehapandey-ai-knowledge-assistant.streamlit.app/) [![Repo](https://img.shields.io/badge/📂_Repo-6d28d9?style=flat-square)](https://github.com/ne-ey) |
-| **AI-Powered Code Review Assistant** | Python · Flask · GitHub API · OpenAI | [![Repo](https://img.shields.io/badge/📂_Repo-6d28d9?style=flat-square)](https://github.com/ne-ey) |
-| **C++ Refactor API** | C++ · REST API · nlohmann-json | [![Repo](https://img.shields.io/badge/📂_Repo-6d28d9?style=flat-square)](https://github.com/ne-ey/CSES) |
-
-</div>
-
----
 
 ## Tech Stack
 
@@ -56,18 +30,6 @@
 [![Skills](https://skillicons.dev/icons?i=cpp,python,typescript,java,pytorch,tensorflow,sklearn,fastapi,flask,docker,git,linux,postgres&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
-
-## DSA
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ne_ey?theme=dark&ext=heatmap)](https://leetcode.com/u/Ne_ey)
-
-</div>
-
-`200+ Problems Solved` &nbsp;·&nbsp; `Top 15%` &nbsp;·&nbsp; `DP · Graphs · Trees · Greedy`
 
 ---
 
@@ -105,9 +67,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-p-132869229/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:np081616@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ne_ey)
 
 <br/>
 
