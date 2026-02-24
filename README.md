@@ -40,7 +40,7 @@
 |:---|:---|
 | **Hacktoberfest 2025 — Supercontributor** | 6+ merged PRs · C++ & Python open source |
 | **Google India Girl Hackathon 2025** | Shortlisted · Top percentile |
-| **LeetCode Top 15%** | 200+ solved · DP · Graphs · Trees |
+| **LeetCode Top 15%** | 500+ solved · DP · Graphs · Trees |
 
 <div align="center">
 <img width="900" alt="Hacktoberfest 2025" src="https://github.com/user-attachments/assets/5bd032f4-f24a-493a-a379-c99c03933950" />
