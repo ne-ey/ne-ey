@@ -41,17 +41,17 @@
 
 
 
+
 <div align="center">
-
-<a href="https://holopin.io/@neey">
-  <img
-    width="900"
-    alt="My Hacktoberfest Badges"
-    src="https://github.com/user-attachments/assets/5bd032f4-f24a-493a-a379-c99c03933950"
-  />
-</a>
-
+  <a href="https://holopin.io/@neey">
+    <img
+      src="https://holopin.me/neey"
+      alt="Neha's live Holopin badge board"
+      width="900"
+    />
+  </a>
 </div>
+
 
 
 
