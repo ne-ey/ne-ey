@@ -39,9 +39,19 @@
 | **Google India Girl Hackathon 2025** | Shortlisted · Top percentile |
 | **LeetCode Top 15%** | 500+ solved · DP · Graphs · Trees |
 
+
 <div align="center">
-<img width="900" alt="Hacktoberfest 2025" src="https://github.com/user-attachments/assets/5bd032f4-f24a-493a-a379-c99c03933950" />
+
+<a href="https://holopin.io/@neey" target="_blank">
+  <img
+    width="900"
+    alt="Neha's Hacktoberfest badges on Holopin — click to view all badges"
+    src="[https://holopin.me/neey](https://www.holopin.io/@neey?verified=true#)"
+  />
+</a>
+
 </div>
+
 
 ---
 
