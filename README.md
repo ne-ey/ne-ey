@@ -40,17 +40,19 @@
 | **LeetCode Top 15%** | 500+ solved · DP · Graphs · Trees |
 
 
+
 <div align="center">
 
-<a href="https://holopin.io/@neey" target="_blank">
+<a href="https://holopin.io/@neey">
   <img
     width="900"
-    alt="Neha's Hacktoberfest badges on Holopin — click to view all badges"
-    src="[https://holopin.me/neey](https://www.holopin.io/@neey?verified=true#)"
+    alt="My Hacktoberfest Badges"
+    src="https://github.com/user-attachments/assets/5bd032f4-f24a-493a-a379-c99c03933950"
   />
 </a>
 
 </div>
+
 
 
 ---
